@@ -49,6 +49,7 @@ export default function Home() {
                 <p className="p-16">Enterprise Software.</p>
                 <p className="p-16">IT Consulting.</p>
             </div>
+            <p className="text-black text-sm">Follow us on <a className="text-sky-600" href="https://www.linkedin.com/company/regalbrain/">LinkedIn</a></p>
 
           </div>
       </section>
